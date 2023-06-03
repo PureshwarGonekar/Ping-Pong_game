@@ -1,5 +1,5 @@
 # Welcome to My Simple Ping-Pong Game!
-[Live](https://pureshwargonekar.github.io/Ping-Pong_game/)
+## [Live](https://pureshwargonekar.github.io/Ping-Pong_game/)
 
 In this mini project, I have utilized HTML, CSS, and JavaScript to create an entertaining and interactive ping-pong game. Engage in a friendly competition with your friends as you aim to score the maximum number of points by hitting the ball past your opponent.
 
