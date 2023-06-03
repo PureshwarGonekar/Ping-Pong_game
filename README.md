@@ -16,5 +16,11 @@ In this mini project, I have utilized HTML, CSS, and JavaScript to create an ent
 
 * **Responsive Design:** The game is designed to be responsive, adapting to various screen sizes and devices. Whether you play it on a desktop computer, tablet, or mobile phone, the game interface adjusts accordingly, ensuring an enjoyable gaming experience.
 
+## Demo Video
+
+https://github.com/PureshwarGonekar/Ping-Pong_game/assets/88015818/e744903a-95d2-49c1-9ea4-1d1a4ddf5524
+
+
+
 *Get ready to engage in thrilling matches of ping-pong with My Simple Ping-Pong Game. Compete against your friends or challenge yourself to achieve the maximum score. This game is perfect for casual gaming sessions, friendly competitions, or simply having fun with your loved ones.*
 
